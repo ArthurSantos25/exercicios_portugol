@@ -2,8 +2,8 @@
 ## O Objetivo desse repositório é armazenar exercícios feito em aula.
 
 Para Clonagem:
-Git clone
-(copiar o caminho que está na aba principal e colar)
+_Git clone
+_(copiar o caminho que está na aba principal e colar)
 
 
 
