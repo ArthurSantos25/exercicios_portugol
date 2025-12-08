@@ -1,5 +1,5 @@
-##Arthur Carvalho Santos 
-#O Objetivo desse repositório é armazenar exercícios feito em aula.
+# Arthur Carvalho Santos 
+## O Objetivo desse repositório é armazenar exercícios feito em aula.
 
 Para clonagem do Repositório foi preciso:
 1-Git add "Nome do Arquivo"
