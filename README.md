@@ -7,7 +7,7 @@ _(copiar o caminho que está na aba principal e colar)
 
 
 
-Para clonagem do Repositório foi preciso:
+Para versionamento do Repositório foi preciso:
 1-Git add "Nome do Arquivo"
 2-Git commit -m "Alguma frase"
 3-Git list --Global username.email "Digite seu email do git"
