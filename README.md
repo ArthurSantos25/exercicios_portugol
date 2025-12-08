@@ -1,8 +1,9 @@
 Arthur Carvalho Santos 
-Esse repositório corresponde a resolução doos exercícios passado em aula 
+O Objetivo desse repositório é armazenar exercícios feito em aula.
 
-#Para clonar o repositório usei os seguintes comandos:
-git pull (onde puxei atualizações)
-fiz o caminho de commitar:
-git commit -m "Recado"
-git push 
+Para clonagem do Repositório foi preciso:
+1-Git add "Nome do Arquivo"
+2-Git commit -m "Alguma frase"
+3-Git list --Global username.email "Digite seu email do git"
+4-Git push 
+
